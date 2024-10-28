@@ -183,7 +183,7 @@ function thinkingStateStartup() {
 
 function draw() {
 
-  keySoundFile.amp(1);
+  keySoundFile.amp(1.5);
 
   if (!runCode) {
 
